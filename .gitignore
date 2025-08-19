@@ -1,0 +1,14 @@
+./gpt-fast/models
+./gpt-fast/__pycache__
+./kernels/__pycache__
+
+# Python cache files
+*.pyc
+__pycache__/
+utils/__pycache__/
+
+# Build artifacts
+teal.egg-info/
+
+# Temporary files
+=3.11
